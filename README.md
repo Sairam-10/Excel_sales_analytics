@@ -1,4 +1,4 @@
-# Excel Sales Analytic
+# Sales Analytics
 
 ## 📊 Overview
 The **Excel Sales Analytic** project provides a comprehensive analysis of sales data, showcasing customer performance and market trends from 2019 to 2021. This repository offers detailed insights into sales growth, regional performance, and target achievements, all presented in a structured and easy-to-navigate format.
